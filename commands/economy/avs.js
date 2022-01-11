@@ -5,8 +5,8 @@ const emoji = require('../../emoji.json')
 module.exports = {
     
         name: "avatarfusion",
-        aliases: ["coins-system"],
-        category: "economy",
+        aliases: ["avs"],
+        category: "image", 
         description: "",
         usage: "[first mention | first username | first ID | first nickname] <second mention | second username | second ID | second nickname> ",
         accessableby: "everyone"
